@@ -18,5 +18,5 @@ My first attempt at creating a game. It never came to fruition due to its inhere
 - Wandering Through an Infinite World
 
 ## Tech Stack
-**Unity 2022** | C# | Physics3D | UI | Burst Compiler | Unity Job system | Chunk generation | River generation based on Bézier curves | Biome generation based on terrain elevation | A dedicated, customizable LOD level for each chunk render distance | Optimized rendering of generated chunk meshes | Chunk Colliders |
+**Unity 6** | C# | Physics3D | UI | Burst Compiler | Unity Job system | Chunk generation | River generation based on Bézier curves | Biome generation based on terrain elevation | A dedicated, customizable LOD level for each chunk render distance | Optimized rendering of generated chunk meshes | Chunk Colliders |
 Visual chunks
