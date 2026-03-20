@@ -1,4 +1,4 @@
-# The-Hermitage-first-version
+# The-Hermitage-Prototype
 
 An unfinished survival game (.exe build)
 
